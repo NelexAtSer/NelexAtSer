@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @NelexAtSer
+- 👀 I’m interested in Gaming and Economics.
+- 🌱 I’m currently learning C# and ABAP Objects
+- 📫 How to reach me: alexander.neusser@ser.de
